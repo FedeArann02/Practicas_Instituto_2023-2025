@@ -1,7 +1,7 @@
 
 ## 📌 Tecnologías Utilizadas
 
-- **Lenguajes:** C#, SQL, Java, Python, HTML/CSS, JavaScript
+- **Lenguajes:** C#, SQL, Java, Python, HTML/CSS, JavaScript, PHP.
 - **Frameworks:** .NET (WinForms, WPF), Entity Framework, LINQ
 - **Herramientas:** Visual Studio, SQL Server, Git, GitHub
 
