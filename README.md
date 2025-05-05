@@ -13,22 +13,19 @@ Aplicación de consola en C# que agrupa múltiples ejercicios prácticos de prog
 - Arreglos multidimensionales
 - Manipulación de archivos `.txt`
 
+### 🔹 Practicas de Logica en PHP y Python
+-Algunos ejercicios hechos con C# pasados a estos lenguajes.
+
 ### 🔹 CRUD_EmpresaLINQ (WPF)
 Sistema de gestión de empleados usando WPF, LINQ to Entities y Entity Framework. Incluye:
 - ABM de empleados
 - Interfaz moderna y dinámica
 
-### 🔹 Gestor de Asistencias para Bomberos
-Aplicación de escritorio en WinForms que permite:
-- Registrar asistencias diarias
-- Generar reportes mensuales
-- Controlar puntajes según tiempo de presencia
+### 🔹 TATETI o Tres en raya (HTML, CSS Y JS)
+Pequeño juego de TaTeTi 
 
-## 🚧 En Desarrollo
-
-- Sistema de ventas con control de stock
-- Módulo de presupuestos y remitos con rollback en SQL
-- E-commerce básico con React y Tailwind CSS
+### 🔹 TODO-LIST (HTML, CSS Y JS)
+clásica lista de tareas.
 
 ## 📆 Años de Formación
 
