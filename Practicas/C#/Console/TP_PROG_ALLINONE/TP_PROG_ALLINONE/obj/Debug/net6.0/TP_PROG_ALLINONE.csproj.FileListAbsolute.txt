@@ -1,0 +1,15 @@
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\bin\Debug\net6.0\TP_PROG_ALLINONE.exe
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\bin\Debug\net6.0\TP_PROG_ALLINONE.deps.json
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\bin\Debug\net6.0\TP_PROG_ALLINONE.runtimeconfig.json
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\bin\Debug\net6.0\TP_PROG_ALLINONE.dll
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\bin\Debug\net6.0\TP_PROG_ALLINONE.pdb
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.csproj.AssemblyReference.cache
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.AssemblyInfoInputs.cache
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.AssemblyInfo.cs
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.csproj.CoreCompileInputs.cache
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.dll
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\refint\TP_PROG_ALLINONE.dll
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.pdb
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\TP_PROG_ALLINONE.genruntimeconfig.cache
+C:\programacion\TP_PROG_ALLINONE\TP_PROG_ALLINONE\obj\Debug\net6.0\ref\TP_PROG_ALLINONE.dll

@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\bin\Debug\net8.0\TrabajoConThreads.exe
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\bin\Debug\net8.0\TrabajoConThreads.deps.json
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\bin\Debug\net8.0\TrabajoConThreads.runtimeconfig.json
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\bin\Debug\net8.0\TrabajoConThreads.dll
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\bin\Debug\net8.0\TrabajoConThreads.pdb
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.AssemblyInfo.cs
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.sourcelink.json
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.dll
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\refint\TrabajoConThreads.dll
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.pdb
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\TrabajoConThreads.genruntimeconfig.cache
+C:\Users\Leo\source\repos\TrabajoConThreads\TrabajoConThreads\obj\Debug\net8.0\ref\TrabajoConThreads.dll

@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\bin\Debug\net8.0\PracticasPOO.exe
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\bin\Debug\net8.0\PracticasPOO.deps.json
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\bin\Debug\net8.0\PracticasPOO.runtimeconfig.json
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\bin\Debug\net8.0\PracticasPOO.dll
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\bin\Debug\net8.0\PracticasPOO.pdb
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.AssemblyInfo.cs
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.sourcelink.json
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.dll
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\refint\PracticasPOO.dll
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.pdb
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\PracticasPOO.genruntimeconfig.cache
+C:\Users\Leo\source\repos\PracticasPOO\PracticasPOO\obj\Debug\net8.0\ref\PracticasPOO.dll

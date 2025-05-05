@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="GestionPedidosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="CARGO">
+          <Key>
+            <PropertyRef Name="idCargo" />
+          </Key>
+          <Property Name="idCargo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NombreCargo" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CARGO_EMPLEADO">
+          <Key>
+            <PropertyRef Name="idCargo_empleado" />
+          </Key>
+          <Property Name="idCargo_empleado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idEmpleado" Type="int" Nullable="false" />
+          <Property Name="idCargo" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="EMPLEADO">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Apellido" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Correo" Type="nvarchar" MaxLength="150" />
+          <Property Name="idEmpresa" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="EMPRESA">
+          <Key>
+            <PropertyRef Name="idEmpresa" />
+          </Key>
+          <Property Name="idEmpresa" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nombre" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <Association Name="FK__CARGO_EMP__idCar__5165187F">
+          <End Role="CARGO" Type="Self.CARGO" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="CARGO_EMPLEADO" Type="Self.CARGO_EMPLEADO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CARGO">
+              <PropertyRef Name="idCargo" />
+            </Principal>
+            <Dependent Role="CARGO_EMPLEADO">
+              <PropertyRef Name="idCargo" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CARGO_EMP__idEmp__5070F446">
+          <End Role="EMPLEADO" Type="Self.EMPLEADO" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="CARGO_EMPLEADO" Type="Self.CARGO_EMPLEADO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EMPLEADO">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="CARGO_EMPLEADO">
+              <PropertyRef Name="idEmpleado" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMPLEADO__idEmpr__4BAC3F29">
+          <End Role="EMPRESA" Type="Self.EMPRESA" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="EMPLEADO" Type="Self.EMPLEADO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EMPRESA">
+              <PropertyRef Name="idEmpresa" />
+            </Principal>
+            <Dependent Role="EMPLEADO">
+              <PropertyRef Name="idEmpresa" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GestionPedidosModelStoreContainer">
+          <EntitySet Name="CARGO" EntityType="Self.CARGO" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CARGO_EMPLEADO" EntityType="Self.CARGO_EMPLEADO" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EMPLEADO" EntityType="Self.EMPLEADO" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EMPRESA" EntityType="Self.EMPRESA" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__CARGO_EMP__idCar__5165187F" Association="Self.FK__CARGO_EMP__idCar__5165187F">
+            <End Role="CARGO" EntitySet="CARGO" />
+            <End Role="CARGO_EMPLEADO" EntitySet="CARGO_EMPLEADO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CARGO_EMP__idEmp__5070F446" Association="Self.FK__CARGO_EMP__idEmp__5070F446">
+            <End Role="EMPLEADO" EntitySet="EMPLEADO" />
+            <End Role="CARGO_EMPLEADO" EntitySet="CARGO_EMPLEADO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMPLEADO__idEmpr__4BAC3F29" Association="Self.FK__EMPLEADO__idEmpr__4BAC3F29">
+            <End Role="EMPRESA" EntitySet="EMPRESA" />
+            <End Role="EMPLEADO" EntitySet="EMPLEADO" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GestionPedidosModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="CARGO">
+          <Key>
+            <PropertyRef Name="idCargo" />
+          </Key>
+          <Property Name="idCargo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NombreCargo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="CARGO_EMPLEADO" Relationship="Self.FK__CARGO_EMP__idCar__5165187F" FromRole="CARGO" ToRole="CARGO_EMPLEADO" />
+        </EntityType>
+        <EntityType Name="CARGO_EMPLEADO">
+          <Key>
+            <PropertyRef Name="idCargo_empleado" />
+          </Key>
+          <Property Name="idCargo_empleado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idEmpleado" Type="Int32" Nullable="false" />
+          <Property Name="idCargo" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CARGO" Relationship="Self.FK__CARGO_EMP__idCar__5165187F" FromRole="CARGO_EMPLEADO" ToRole="CARGO" />
+          <NavigationProperty Name="EMPLEADO" Relationship="Self.FK__CARGO_EMP__idEmp__5070F446" FromRole="CARGO_EMPLEADO" ToRole="EMPLEADO" />
+        </EntityType>
+        <EntityType Name="EMPLEADO">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Apellido" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Correo" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="idEmpresa" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="CARGO_EMPLEADO" Relationship="Self.FK__CARGO_EMP__idEmp__5070F446" FromRole="EMPLEADO" ToRole="CARGO_EMPLEADO" />
+          <NavigationProperty Name="EMPRESA" Relationship="Self.FK__EMPLEADO__idEmpr__4BAC3F29" FromRole="EMPLEADO" ToRole="EMPRESA" />
+        </EntityType>
+        <EntityType Name="EMPRESA">
+          <Key>
+            <PropertyRef Name="idEmpresa" />
+          </Key>
+          <Property Name="idEmpresa" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="EMPLEADO" Relationship="Self.FK__EMPLEADO__idEmpr__4BAC3F29" FromRole="EMPRESA" ToRole="EMPLEADO" />
+        </EntityType>
+        <Association Name="FK__CARGO_EMP__idCar__5165187F">
+          <End Role="CARGO" Type="Self.CARGO" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="CARGO_EMPLEADO" Type="Self.CARGO_EMPLEADO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CARGO">
+              <PropertyRef Name="idCargo" />
+            </Principal>
+            <Dependent Role="CARGO_EMPLEADO">
+              <PropertyRef Name="idCargo" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__CARGO_EMP__idEmp__5070F446">
+          <End Role="EMPLEADO" Type="Self.EMPLEADO" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="CARGO_EMPLEADO" Type="Self.CARGO_EMPLEADO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EMPLEADO">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="CARGO_EMPLEADO">
+              <PropertyRef Name="idEmpleado" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__EMPLEADO__idEmpr__4BAC3F29">
+          <End Role="EMPRESA" Type="Self.EMPRESA" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="EMPLEADO" Type="Self.EMPLEADO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EMPRESA">
+              <PropertyRef Name="idEmpresa" />
+            </Principal>
+            <Dependent Role="EMPLEADO">
+              <PropertyRef Name="idEmpresa" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="GestionPedidosEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="CARGO" EntityType="Self.CARGO" />
+          <EntitySet Name="CARGO_EMPLEADO" EntityType="Self.CARGO_EMPLEADO" />
+          <EntitySet Name="EMPLEADO" EntityType="Self.EMPLEADO" />
+          <EntitySet Name="EMPRESA" EntityType="Self.EMPRESA" />
+          <AssociationSet Name="FK__CARGO_EMP__idCar__5165187F" Association="Self.FK__CARGO_EMP__idCar__5165187F">
+            <End Role="CARGO" EntitySet="CARGO" />
+            <End Role="CARGO_EMPLEADO" EntitySet="CARGO_EMPLEADO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__CARGO_EMP__idEmp__5070F446" Association="Self.FK__CARGO_EMP__idEmp__5070F446">
+            <End Role="EMPLEADO" EntitySet="EMPLEADO" />
+            <End Role="CARGO_EMPLEADO" EntitySet="CARGO_EMPLEADO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__EMPLEADO__idEmpr__4BAC3F29" Association="Self.FK__EMPLEADO__idEmpr__4BAC3F29">
+            <End Role="EMPRESA" EntitySet="EMPRESA" />
+            <End Role="EMPLEADO" EntitySet="EMPLEADO" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GestionPedidosModelStoreContainer" CdmEntityContainer="GestionPedidosEntities">
+          <EntitySetMapping Name="CARGO">
+            <EntityTypeMapping TypeName="GestionPedidosModel.CARGO">
+              <MappingFragment StoreEntitySet="CARGO">
+                <ScalarProperty Name="idCargo" ColumnName="idCargo" />
+                <ScalarProperty Name="NombreCargo" ColumnName="NombreCargo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CARGO_EMPLEADO">
+            <EntityTypeMapping TypeName="GestionPedidosModel.CARGO_EMPLEADO">
+              <MappingFragment StoreEntitySet="CARGO_EMPLEADO">
+                <ScalarProperty Name="idCargo_empleado" ColumnName="idCargo_empleado" />
+                <ScalarProperty Name="idEmpleado" ColumnName="idEmpleado" />
+                <ScalarProperty Name="idCargo" ColumnName="idCargo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EMPLEADO">
+            <EntityTypeMapping TypeName="GestionPedidosModel.EMPLEADO">
+              <MappingFragment StoreEntitySet="EMPLEADO">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+                <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+                <ScalarProperty Name="Correo" ColumnName="Correo" />
+                <ScalarProperty Name="idEmpresa" ColumnName="idEmpresa" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EMPRESA">
+            <EntityTypeMapping TypeName="GestionPedidosModel.EMPRESA">
+              <MappingFragment StoreEntitySet="EMPRESA">
+                <ScalarProperty Name="idEmpresa" ColumnName="idEmpresa" />
+                <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

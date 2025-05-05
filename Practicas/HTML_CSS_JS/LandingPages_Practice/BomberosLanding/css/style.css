@@ -1,0 +1,298 @@
+:root{
+    --crimson-red: rgb(221, 59, 72);
+    --crimson-red-light: rgba(241, 103, 115, 0.699);
+    --primary-gray: rgb(35, 37, 41);
+    --second-gray: rgb(41, 44, 51);
+    --third-gray: rgb(175, 177, 185);
+}
+
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255)
+} 
+
+.nav__container{
+    width: 90%;
+    margin: 0 30px;
+    overflow: hidden;
+    max-width: 1200px;
+}
+
+nav{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header{
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: crimson;
+}
+
+.header__Bar{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 20px;
+
+}
+
+.nav__hamburguer{
+    width: 40px;
+    height: 50%;
+    background-image: url("../images/Icons/menu.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    z-index: 100;
+    transition: background-image .3s;
+}
+
+.nav__hamburguer--open{
+    background-image: url("../images/Icons/close.svg");
+    width: 40px;
+    height: 60%;
+}
+
+.nav__overlay{
+    background-color: rgba(0, 0, 0, 0.466);
+    position: fixed;
+    inset: 0;
+
+    opacity: 0;
+    pointer-events: none;
+}
+
+.nav__overlay--show{
+    opacity: 1;
+    pointer-events: unset;
+    transition: .3s;
+}
+
+.nav__menu{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: white;
+    width: 65%;
+    max-width:400px;
+    padding: 0;
+    list-style: none;
+    overflow: auto;
+    padding: 70px 0;
+}
+
+.nav__item{
+    width: 80%;
+    margin: 0 auto;
+    color: var(--primary-gray);
+    cursor: pointer;
+    padding: 20px 0;
+}
+
+.nav__item:has(.nav__parent){
+    padding: 0;
+}
+
+.nav__inner{
+    list-style: none;
+    padding: 0;
+    width: 80%;
+    margin: 0 auto;
+
+    display: grid;
+    gap: 1.5em;
+    overflow: hidden;
+
+    height: 0;
+    transition: height .4s;
+}
+
+.nav__parent{
+    display: grid;
+    align-items: center;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: 1.3em;
+    padding: 20px 0;
+}
+
+.nav__link{
+    text-decoration: none;
+    color: var(--primary-gray);
+}
+
+.nav__login{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius:1em ;
+}
+
+.nav__login--border{
+    border-radius: 1em;
+    margin-top: 20px;
+    border: 2px solid var(--third-gray)
+}
+
+.nav__login:hover{
+    background-color: var(--third-gray);
+    transition: .5s;
+}
+
+.nav__sign{
+    display: inline-block;
+    color: var(--primary-gray);
+    padding: .7em 0;
+    text-decoration: none;
+}
+
+.nav__arrow{
+    width: 10px;
+    height: 10px;
+}
+
+.nav__illustration{
+    width: 20px;
+}
+
+.nav__logo{
+    width: 50px;
+}
+
+.header__userImg {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: solid 1px white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* importante para recortar la imagen */
+}
+
+.header__userImg img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover; /* mantiene proporciones y recorta si es necesario */
+    border-radius: 50%; /* por si acaso, aunque el contenedor ya es redondo */
+}
+
+.header__userInfo h2{
+    color: white;
+    font-size: 12px;
+}
+
+.header__userInfo p{
+    color: rgba(255, 255, 255, 0.733);
+    font-size: 10px;
+}
+
+.header__user{
+    opacity: 0;
+}
+
+/* Main  */
+
+.main__grid{
+    background-color: var(--second-gray);
+    height:600px
+}
+
+
+
+@media (min-width:768px){
+    .nav__container{
+        gap: 2em;
+        overflow: visible;
+        padding: 50px 0;
+    }
+
+    .nav__hamburguer{
+        display: none;
+    }
+
+    .nav__overlay{
+        position: unset;
+        background-color: transparent;
+        opacity: 1;
+        pointer-events: unset;
+    }
+
+    .nav__menu{
+        position:unset;
+        width: 100%;
+        max-width:unset;
+        background-color: unset;
+        padding: 0;
+        overflow: unset;
+
+        display: flex;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .nav__item{
+        width: max-content;
+        margin: 0;
+        padding: 0;
+
+        position: relative;
+    }
+
+    .nav__inner{
+        color: white;
+        position: absolute;
+        left: 0;
+        padding: 2em;
+        width: max-content;
+        background-color: white;
+
+        height: auto;
+        z-index: 100;
+        border-radius: 10px;
+        box-shadow: 0 0 10px 0 rgba(0,0,0,.5);
+        
+        transition: opacity .3s;
+        opacity: 0;
+        pointer-events: none;
+    }
+
+    .nav__inner--show{
+        opacity: 1;
+        pointer-events: unset;
+    }
+
+    .nav__login{
+        width: max-content;
+        margin: 0;
+        padding: 0 1.5em;
+    }
+
+    .nav__login--border{
+        margin: 0;
+        padding: 0 1.5em;
+    }
+
+    .header__user{
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        transition: opacity .3s;
+        opacity: 1;
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\accesArch2025\bin\Debug\net9.0\accesArch2025.exe
+C:\Users\Leo\source\repos\accesArch2025\bin\Debug\net9.0\accesArch2025.deps.json
+C:\Users\Leo\source\repos\accesArch2025\bin\Debug\net9.0\accesArch2025.runtimeconfig.json
+C:\Users\Leo\source\repos\accesArch2025\bin\Debug\net9.0\accesArch2025.dll
+C:\Users\Leo\source\repos\accesArch2025\bin\Debug\net9.0\accesArch2025.pdb
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.AssemblyInfo.cs
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.sourcelink.json
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.dll
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\refint\accesArch2025.dll
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.pdb
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\accesArch2025.genruntimeconfig.cache
+C:\Users\Leo\source\repos\accesArch2025\obj\Debug\net9.0\ref\accesArch2025.dll

@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\models\\bd\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\models\\bd\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|c:\\users\\leo\\desktop\\inst\\c#\\wpf\\crud_wpf_mvvm\\crud_wpf_mvvm\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\views\\recordsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\views\\recordsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Views\\ArticulosView.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRUD_WPF_MVVM\\Views\\ArticulosView.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\crud_wpf_mvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A494C335-48DA-4430-AD64-C74BDE2F7268}|CRUD_WPF_MVVM\\CRUD_WPF_MVVM.csproj|solutionrelative:crud_wpf_mvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:04:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-25T03:01:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:06:38.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:04:25.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Models\\UserModel.cs",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T18:04:14.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticulosView.xaml",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Views\\ArticulosView.xaml",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\Views\\ArticulosView.xaml",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Views\\ArticulosView.xaml",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\Views\\ArticulosView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-25T21:57:54.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordsView.xaml",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Views\\RecordsView.xaml",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\Views\\RecordsView.xaml",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Views\\RecordsView.xaml",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\Views\\RecordsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-25T03:17:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\App.xaml",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\App.xaml",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\App.xaml",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-25T21:58:09.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Models\\BD\\BD.cs",
+              "RelativeDocumentMoniker": "CRUD_WPF_MVVM\\Models\\BD\\BD.cs",
+              "ToolTip": "C:\\Users\\Leo\\Desktop\\inst\\C#\\WPF\\CRUD_WPF_MVVM\\CRUD_WPF_MVVM\\Models\\BD\\BD.cs",
+              "RelativeToolTip": "CRUD_WPF_MVVM\\Models\\BD\\BD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T03:04:13.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

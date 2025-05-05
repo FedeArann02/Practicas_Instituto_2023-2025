@@ -1,0 +1,157 @@
+*, ::before, ::after{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+    background: linear-gradient(#28074e, rgb(138, 25, 104));
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.game{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    gap: 1rem;
+    place-content: center;
+}
+
+.game__board{
+    width: 300px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.cell{
+    width: 100%;
+    height: 100%;
+    border: 2px solid white;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    grid-template-areas: "draw";
+}
+
+.cricle::after{
+    content: "";
+    grid-area: draw;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border: 10px solid white;
+    border-radius: 50%;
+    animation: show .3s;
+}
+
+.circle::before{
+    content: "";
+    grid-area: draw;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border: 10px solid white;
+    border-radius: 50%;
+    animation: show-reverse .3s;
+}
+
+.cross::after{
+    content: "";
+    grid-area: draw;
+    display: block;
+    width: 10px;
+    height: 70px;
+    background-color: white;
+    transform: rotate(45deg);
+    border-radius: 10px;
+    animation: show-reverse .3s;
+}
+
+.cross::before{
+    content: "";
+    grid-area: draw;
+    display: block;
+    width: 10px;
+    height: 70px;
+    background-color: white;
+    transform: rotate(-45deg);
+    border-radius: 10px;
+    animation: show .3s;
+}
+
+.welcome{
+    background: linear-gradient(#260947, rgb(109, 66, 145));
+    position: absolute;
+    inset: 0;
+    opacity: 1;
+    pointer-events: unset;
+    transition: .3s;
+    z-index: 200;
+
+    display: grid;
+    place-content: center;
+    text-align: center;
+}
+
+.welcome__end{
+    opacity: 0;
+    inset: 1;
+    transition: 3s;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.endgame{
+    background-color: #000000bc;
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    pointer-events: none;
+    transition: .3s;
+
+    display: grid;
+    place-content: center;
+}
+
+.endgame__show{
+    display: grid;
+    gap: 1rem;
+    text-align: center;
+}
+
+.endgame__button, .start__button{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    padding: 1rem 2rem;
+    margin: 0 auto;
+    border: 0;
+    border-radius: 100px;
+    width: max-content;
+    cursor: pointer;
+}
+
+.show{
+    opacity: 1;
+    pointer-events: unset;
+}
+
+@keyframes show{
+    0%{
+        transform: scale(0) rotate(-45deg);
+    }
+    100%{
+        transform: scale(1) rotate(-45deg);
+    }
+}
+
+@keyframes show-reverse{
+    0%{
+        transform: scale(0) rotate(45deg);
+    }
+    100%{
+        transform: scale(1) rotate(45deg);
+    }
+}

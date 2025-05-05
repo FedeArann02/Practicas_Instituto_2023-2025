@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\crud_empresalinq\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|solutionrelative:crud_empresalinq\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\crud_empresalinq\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|solutionrelative:crud_empresalinq\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\crud_empresalinq\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|solutionrelative:crud_empresalinq\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|c:\\users\\leo\\source\\repos\\crud_empresalinq\\crud_empresalinq\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|solutionrelative:crud_empresalinq\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\crud_empresalinq\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|solutionrelative:crud_empresalinq\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\crud_empresalinq\\gestionpedidos_orm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{900E9D7E-A087-49DC-AD86-DECFDC13D4FA}|CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ.csproj|solutionrelative:crud_empresalinq\\gestionpedidos_orm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CRUD_EmpresaLINQ\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CRUD_EmpresaLINQ\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAuwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:59:22.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\App.xaml",
+              "RelativeDocumentMoniker": "CRUD_EmpresaLINQ\\App.xaml",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\App.xaml",
+              "RelativeToolTip": "CRUD_EmpresaLINQ\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T01:56:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionPedidos_ORM.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\GestionPedidos_ORM.edmx",
+              "RelativeDocumentMoniker": "CRUD_EmpresaLINQ\\GestionPedidos_ORM.edmx",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\GestionPedidos_ORM.edmx [Diagram1]",
+              "RelativeToolTip": "CRUD_EmpresaLINQ\\GestionPedidos_ORM.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-01-20T01:54:06.576Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\App.config",
+              "RelativeDocumentMoniker": "CRUD_EmpresaLINQ\\App.config",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\App.config",
+              "RelativeToolTip": "CRUD_EmpresaLINQ\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T01:40:46.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\Connection.cs",
+              "RelativeDocumentMoniker": "CRUD_EmpresaLINQ\\Connection.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\Connection.cs",
+              "RelativeToolTip": "CRUD_EmpresaLINQ\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:22:25.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CRUD_EmpresaLINQ\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\CRUD_EmpresaLINQ\\CRUD_EmpresaLINQ\\MainWindow.xaml",
+              "RelativeToolTip": "CRUD_EmpresaLINQ\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T00:59:24.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

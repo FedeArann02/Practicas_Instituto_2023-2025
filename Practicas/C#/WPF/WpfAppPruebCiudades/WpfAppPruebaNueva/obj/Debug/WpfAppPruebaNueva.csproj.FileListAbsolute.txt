@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\bin\Debug\WpfAppPruebaNueva.exe.config
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\bin\Debug\WpfAppPruebaNueva.exe
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\bin\Debug\WpfAppPruebaNueva.pdb
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\MainWindow.g.cs
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\App.g.cs
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva_MarkupCompile.cache
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva_MarkupCompile.lref
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\MainWindow.baml
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.g.resources
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.Properties.Resources.resources
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.exe
+C:\Users\Leo\source\repos\WpfAppPruebaNueva\WpfAppPruebaNueva\obj\Debug\WpfAppPruebaNueva.pdb

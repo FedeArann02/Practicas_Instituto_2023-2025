@@ -1,0 +1,86 @@
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\WPF acceso a datos.exe.config
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\WPF acceso a datos.exe
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\WPF acceso a datos.pdb
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Azure.Core.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Azure.Identity.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Buffers.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.ClientModel.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Memory.Data.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Memory.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Text.Json.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Azure.Core.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Azure.Identity.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Buffers.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.ClientModel.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Memory.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Memory.Data.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Text.Json.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\MainWindow.g.cs
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\App.g.cs
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos_MarkupCompile.cache
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos_MarkupCompile.lref
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\MainWindow.baml
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos.g.resources
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF_acceso_a_datos.Properties.Resources.resources
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acce.E278B8F9.Up2Date
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos.exe
+C:\Users\Leo\source\repos\WPF acceso a datos\WPF acceso a datos\obj\Debug\WPF acceso a datos.pdb

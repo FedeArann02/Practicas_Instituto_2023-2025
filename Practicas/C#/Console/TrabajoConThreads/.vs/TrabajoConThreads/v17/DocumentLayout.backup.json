@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\source\\repos\\TrabajoConThreads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BDC2AA-A788-424E-A4CE-F5068F6BC3B3}|TrabajoConThreads\\TrabajoConThreads.csproj|c:\\users\\leo\\source\\repos\\trabajoconthreads\\trabajoconthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BDC2AA-A788-424E-A4CE-F5068F6BC3B3}|TrabajoConThreads\\TrabajoConThreads.csproj|solutionrelative:trabajoconthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BDC2AA-A788-424E-A4CE-F5068F6BC3B3}|TrabajoConThreads\\TrabajoConThreads.csproj|c:\\users\\leo\\source\\repos\\trabajoconthreads\\trabajoconthreads\\trabajoconthreads.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F3BDC2AA-A788-424E-A4CE-F5068F6BC3B3}|TrabajoConThreads\\TrabajoConThreads.csproj|solutionrelative:trabajoconthreads\\trabajoconthreads.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrabajoConThreads",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\TrabajoConThreads\\TrabajoConThreads\\TrabajoConThreads.csproj",
+              "RelativeDocumentMoniker": "TrabajoConThreads\\TrabajoConThreads.csproj",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\TrabajoConThreads\\TrabajoConThreads\\TrabajoConThreads.csproj",
+              "RelativeToolTip": "TrabajoConThreads\\TrabajoConThreads.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T01:45:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\TrabajoConThreads\\TrabajoConThreads\\Program.cs",
+              "RelativeDocumentMoniker": "TrabajoConThreads\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\TrabajoConThreads\\TrabajoConThreads\\Program.cs",
+              "RelativeToolTip": "TrabajoConThreads\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAE8AAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:07:48.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

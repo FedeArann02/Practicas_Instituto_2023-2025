@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|c:\\users\\leo\\source\\repos\\practicaspoo\\practicaspoo\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|solutionrelative:practicaspoo\\avisostrafico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|c:\\users\\leo\\source\\repos\\practicaspoo\\practicaspoo\\avisosacienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|solutionrelative:practicaspoo\\avisosacienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|c:\\users\\leo\\source\\repos\\practicaspoo\\practicaspoo\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|solutionrelative:practicaspoo\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|c:\\users\\leo\\source\\repos\\practicaspoo\\practicaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|solutionrelative:practicaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|c:\\users\\leo\\source\\repos\\practicaspoo\\practicaspoo\\practicaspoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A835FAA-C5C8-46D0-9F4D-71D4037E546D}|PracticasPOO\\PracticasPOO.csproj|solutionrelative:practicaspoo\\practicaspoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvisosAcienda.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\AvisosAcienda.cs",
+              "RelativeDocumentMoniker": "PracticasPOO\\AvisosAcienda.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\AvisosAcienda.cs",
+              "RelativeToolTip": "PracticasPOO\\AvisosAcienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:04:01.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvisosTrafico.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\AvisosTrafico.cs",
+              "RelativeDocumentMoniker": "PracticasPOO\\AvisosTrafico.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\AvisosTrafico.cs",
+              "RelativeToolTip": "PracticasPOO\\AvisosTrafico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:05:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAvisos.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\IAvisos.cs",
+              "RelativeDocumentMoniker": "PracticasPOO\\IAvisos.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\IAvisos.cs",
+              "RelativeToolTip": "PracticasPOO\\IAvisos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:03:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticasPOO.csproj",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\PracticasPOO.csproj",
+              "RelativeDocumentMoniker": "PracticasPOO\\PracticasPOO.csproj",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\PracticasPOO.csproj",
+              "RelativeToolTip": "PracticasPOO\\PracticasPOO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-30T04:01:38.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\Program.cs",
+              "RelativeDocumentMoniker": "PracticasPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\PracticasPOO\\PracticasPOO\\Program.cs",
+              "RelativeToolTip": "PracticasPOO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:00:51.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

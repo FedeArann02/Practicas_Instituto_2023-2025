@@ -1,0 +1,38 @@
+
+7/10/2023 09:37:01
+
+Tiro 1:  4 2 5 5 2 
+
+Tiro 2:  4 1 5 2 1 
+
+Tiro 3:  4 4 5 1 5 
+
+Tiro 4:  3 6 2 3 2 
+
+Tiro 5:  3 3 5 5 5 
+
+1 = 3 veces
+2 = 5 veces
+3 = 4 veces
+4 = 4 veces
+5 = 8 veces
+6 = 1 veces 
+
+7/10/2023 09:44:31
+
+Tiro 1:  3 5 2 5 4 
+
+Tiro 2:  5 2 1 2 3 
+
+Tiro 3:  6 1 3 3 6 
+
+Tiro 4:  3 3 4 6 1 
+
+Tiro 5:  1 6 4 2 1 
+
+1 = 5 veces
+2 = 4 veces
+3 = 6 veces
+4 = 3 veces
+5 = 3 veces
+6 = 4 veces 

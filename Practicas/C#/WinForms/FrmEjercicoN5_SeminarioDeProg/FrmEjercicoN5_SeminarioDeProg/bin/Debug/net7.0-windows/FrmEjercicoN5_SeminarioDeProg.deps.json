@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FrmEjercicoN5_SeminarioDeProg/1.0.0": {
+        "runtime": {
+          "FrmEjercicoN5_SeminarioDeProg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmEjercicoN5_SeminarioDeProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

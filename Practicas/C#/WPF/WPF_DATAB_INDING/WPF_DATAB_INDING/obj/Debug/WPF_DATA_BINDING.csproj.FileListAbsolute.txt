@@ -1,0 +1,15 @@
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\bin\Debug\WPF_DATAB_INDING.exe.config
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\bin\Debug\WPF_DATAB_INDING.exe
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\bin\Debug\WPF_DATAB_INDING.pdb
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATA_BINDING.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\MainWindow.g.cs
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\App.g.cs
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATAB_INDING_MarkupCompile.cache
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATAB_INDING_MarkupCompile.lref
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\MainWindow.baml
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATAB_INDING.g.resources
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATAB_INDING.Properties.Resources.resources
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATA_BINDING.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATA_BINDING.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATAB_INDING.exe
+C:\Users\Leo\source\repos\WPF_DATAB_INDING\WPF_DATAB_INDING\obj\Debug\WPF_DATAB_INDING.pdb
